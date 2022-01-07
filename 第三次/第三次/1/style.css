@@ -1,0 +1,118 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #505050;
+}
+.box {
+    width: 375px;
+    height: 667px;
+    margin: 0px auto;
+    /* background-color: pink; */
+    border: 1px solid transparent;
+}
+.head {
+    width: 375px;
+    height: 130px;
+}
+.head img {
+    border: 50%;
+    width: 70px;
+    height: 70px;
+   margin-left: 20px;
+   margin-top: 30px;
+}
+strong {
+    font-size: 16px;
+}
+.head .information {
+     margin-top: 30px;
+    float: right;
+    margin-right: 80px;
+    width: 200px;
+    height: 70px;
+    color: #6b6b6b;
+    font-size: 14px;
+}
+.opt {
+    width: 375px;
+    height: 45px;
+    /* background-color: red; */
+
+}
+.opt li {
+    width: 80px;
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    margin-left: 20px;
+}
+.opt  span {
+    color: #fcfcfc;
+    float: left;
+    margin-top: 8px;
+}
+.class {
+    width: 375px;
+    height: 150px;
+    margin-top: 20px;
+}
+.class h4 {
+    float: left;
+    margin-left: 10px;
+    margin-right: 80px;
+}
+.class span a {
+   float: right;
+   margin-right: 10px;
+   color: #b3b3b3;
+}
+.left {
+    width: 125px;
+    height: 70px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
+    color: #505050;
+}
+.left p {
+    color: #e3f4ed;
+}
+.right {
+    width: 125px;
+    height: 70px;
+    float: right;
+    margin-right: 20px;
+       margin-top: 30px;
+}
+.other p{
+    margin-top: 20px;
+}
+.bottom {
+    width: 375px;
+    height: 60px;
+  float: right;
+  margin-top: 70px;
+    
+
+}
+.bottom ul li {
+    list-style: none;
+    width: 50px;
+    height:50px;
+    float: left;
+    margin-top: 30px;
+    margin-left:30px;
+    text-align: center;
+    font-size: 12px;
+}
+.bottom ul li img {
+    /* float: left; */
+    width: 25px;
+    height: 25px;
+}
